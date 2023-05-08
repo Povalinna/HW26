@@ -6,13 +6,13 @@ body{
 .btn2{
    display: block;
     position: absolute;
-    left: 200px;
-    top: 15px;
+    left: 205px;
+    top: 11px;
     width: 90px;
     height: 140px;
-    border: 2px solid darkblue;
-    color: blue;
-    border-radius: 20px;
+    border: 10px solid rgb(164, 133, 54);
+    color: darkgoldenrod;
+    font-weight: 800;
 }  
 .container{
     width: 500px;
@@ -25,14 +25,14 @@ body{
 .btn1{
    display: block;
     position: absolute;
-    left: -320px;
-    bottom: 280px;
+    left: -322px;
+    bottom: 283px;
     width: 140px;
     height: 80px;
-    border: 2px solid darkgreen;
-    color: darkgreen;
-    font-weight: 700;
-    border-radius: 20px;
+    border: 10px solid dimgray;
+    color: dimgray;
+    font-weight: 800;
+    
     
 }
 
