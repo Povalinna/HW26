@@ -1,0 +1,50 @@
+body{
+    margin: 0;
+    background-image: url(../img/gallary.jpg);
+    width: 100vw;
+}
+.btn2{
+   display: block;
+    position: absolute;
+    left: 200px;
+    top: 15px;
+    width: 90px;
+    height: 140px;
+    border: 2px solid darkblue;
+    color: blue;
+    border-radius: 20px;
+}  
+.container{
+    width: 500px;
+    height: 400px;
+    margin: 50px;
+    position: absolute;
+    left: 400px;
+    top: 150px;
+}
+.btn1{
+   display: block;
+    position: absolute;
+    left: -320px;
+    bottom: 280px;
+    width: 140px;
+    height: 80px;
+    border: 2px solid darkgreen;
+    color: darkgreen;
+    font-weight: 700;
+    border-radius: 20px;
+    
+}
+
+.img{
+display: none;
+position: absolute;
+width: 200px;
+height: 300px;
+display: flex;
+margin: -100px -90px 50px ;
+}
+
+
+
+
